@@ -66,4 +66,5 @@ public class Game {
             throw new IllegalArgumentException("player is not part of this game");
         }
     }
+
 }
